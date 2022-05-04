@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adij20
+- 👀 I’m interested in full stack blockchain development
+- 🌱 I’m currently learning blockchain development...
+- 📫 You can reach me at info.adityajoshi@gmail.com
